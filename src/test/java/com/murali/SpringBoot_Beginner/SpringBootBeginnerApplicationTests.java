@@ -1,10 +1,10 @@
-package com.murali.SpringBoot_Beginner;
+package com.being_infinity.springboot_beginner_cohort_3;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootBeginnerApplicationTests {
+class SpringbootBeginnerCohort3ApplicationTests {
 
 	@Test
 	void contextLoads() {
